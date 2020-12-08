@@ -1,0 +1,11 @@
+Package: com.stupidrepo.zebra
+Name: Zebra
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: If you can't install Zebra, try installing this version of Zebra.
+Maintainer: Bradlee Barnes
+Author: Bradlee Barnes
+Section: Packaging
+Depends: 
+Filename: debs/Zebra.deb
+Size: 572
