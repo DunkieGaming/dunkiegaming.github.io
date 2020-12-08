@@ -12,3 +12,19 @@ Size: 20163404
 MD5sum: acf2cf76912e6487b5e3326f8c6ee632
 SHA1: efcc59328706df592e2c296abb0cd262c905b82b
 SHA256: 548b0b22a4f9aaca4d56aa51984644e045aa8e60f50b423011b5495360ccf5fe
+
+
+Package: com.stupidrepo-sony.music-center
+Name: Sony Music Center
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Personal!
+Maintainer: Bradlee Barnes
+Author: Bradlee Barnes
+Section: Audio
+Depends: 
+Filename: debs/MusicCenter.deb
+Size: 32973528
+MD5sum: 2676e6b567c13608df94367ee34bd214
+SHA1: 28b1f92758385172ed2b567008e6ffc5684146e2
+SHA256: d00d984a72c9c2d979082d8b65a5d19c847b1b6cb6fa1be668569aa6d23ec41d
