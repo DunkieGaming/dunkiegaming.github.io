@@ -9,3 +9,4 @@ Section: Packaging
 Depends: 
 Filename: debs/Zebra.deb
 Size: 20163404
+MD5sum: acf2cf76912e6487b5e3326f8c6ee632
