@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Description: This tweak makes the background of app downloads less dark so you can see the app icons.
 Maintainer: Bradlee Barnes
 Author: Bradlee Barnes
-Section: Tweaks
+Section: Simple Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/SeeTheImage.deb
 Size: 2592
