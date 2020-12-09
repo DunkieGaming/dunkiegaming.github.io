@@ -13,3 +13,17 @@ MD5sum: cf8bd997a59e02d33cea7f440c057034
 SHA1: 41cf6a8f48e2bce6300248c29b27bc367ca1f805
 SHA256: 18f219df92ee867e03f8781327c13d3a2e6544ac4962c395f43968e055dbd352
 
+
+Package: com.stupidrepo.seetheimage
+Name: See The Image
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Bradlee Barnes
+Author: Bradlee Barnes
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/SeeTheImage.deb
+Size: 2592
+MD5sum: 93fd3588c30163bd6beb4c34ad578971
+SHA1: 05bd95df3c7422952cad1f238617fd6237824197
+SHA256: 1710ec8c0147e157e4cc2f13c8df69f57fb483dd81388dbeec6cf2463da3ced2
+
