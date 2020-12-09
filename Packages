@@ -1,30 +1,11 @@
-Package: com.stupidrepo.zebra
-Name: Zebra
-Version: 1.0.0
+Package: com.stupidrepo.byedock
+Name: Bye Dock!
+Version: 0.0.1
 Architecture: iphoneos-arm
-Description: If you can't install Zebra, try installing this version of Zebra.
+Description: There is already a tweak for this but I thought, hey, why not make it myself.\nSo, this supports iOS 12.x-14.x I think.
 Maintainer: Bradlee Barnes
 Author: Bradlee Barnes
-Section: Packaging
-Depends: 
-Filename: debs/Zebra.deb
-Size: 20163404
-MD5sum: acf2cf76912e6487b5e3326f8c6ee632
-SHA1: efcc59328706df592e2c296abb0cd262c905b82b
-SHA256: 548b0b22a4f9aaca4d56aa51984644e045aa8e60f50b423011b5495360ccf5fe
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/ByeDock.deb
 
-
-Package: com.stupidrepo-sony.music-center
-Name: Sony Music Center
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Personal!
-Maintainer: Bradlee Barnes
-Author: Bradlee Barnes
-Section: Audio
-Depends: 
-Filename: debs/MusicCenter.deb
-Size: 32973528
-MD5sum: 2676e6b567c13608df94367ee34bd214
-SHA1: 28b1f92758385172ed2b567008e6ffc5684146e2
-SHA256: d00d984a72c9c2d979082d8b65a5d19c847b1b6cb6fa1be668569aa6d23ec41d
