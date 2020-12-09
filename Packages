@@ -9,5 +9,7 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/ByeDock.deb
 Size: 3092
-MD5sum: 191CE6D97FA770F704E57B124986689F
+MD5sum: 191ce6d97fa770f704e57b124986689f
+SHA1: 9acf7aff3a5d3b831ef6074227e982e0d6b71704
+SHA256: 1027233877a31cb70a0ab79a89c590eeed4830bcd603f2bb5c7572d4b12fcf93
 
