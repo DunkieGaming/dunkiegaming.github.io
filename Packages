@@ -29,3 +29,19 @@ MD5sum: 93fd3588c30163bd6beb4c34ad578971
 SHA1: 05bd95df3c7422952cad1f238617fd6237824197
 SHA256: 1710ec8c0147e157e4cc2f13c8df69f57fb483dd81388dbeec6cf2463da3ced2
 
+
+Package: com.stupidrepo.dqpcdisabled
+Name: DotsQuickPageChange = Disabled
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: iOS 14.x only. This disables Quick Changing Pages (Where you swipe on the dots on homescreen to change pages)!
+Maintainer: Bradlee Barnes
+Author: Bradlee Barnes
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/DQPCDisabled.deb
+Size: 1554
+MD5sum: 0b79c93e1ad407c1cbb374657da179fb
+SHA1: 5bd786626df8c441f6b636a0e061d7f6eda92665
+SHA256: 8876d69da067cb6e2d6e41cba154f4ef9ddac256c622cd3f3625899f78172561
+
