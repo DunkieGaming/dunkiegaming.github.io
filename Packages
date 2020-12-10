@@ -41,7 +41,7 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/CarrierCensored.deb
 Size: 2656
-MD5sum: 7a51bd8432f9f6af90ae98cb3306efa5
-SHA1: 1eda25e9156e0797de23e62fad379747758ee1c4
-SHA256: d5aef3d3c8cbe80347df44bf9bbc86cb4c836679fb6ca81db253ab5421939240
+MD5sum: 5a0e2b0d6997d1b298f42620f8f4c6c5
+SHA1: 69e563e0ad89af7e2a9db097c2eac253e79f963a
+SHA256: 52ae4768ab696e37fcf978e7c7b5e42cc4be72d0cd8469f9b169d3b418a73eaa
 
