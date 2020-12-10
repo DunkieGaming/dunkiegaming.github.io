@@ -8,7 +8,7 @@ Author: Bradlee Barnes
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/ByeDock.deb
-Size: 3092
+Size: 3086
 MD5sum: cf8bd997a59e02d33cea7f440c057034
 SHA1: 41cf6a8f48e2bce6300248c29b27bc367ca1f805
 SHA256: 18f219df92ee867e03f8781327c13d3a2e6544ac4962c395f43968e055dbd352
@@ -40,8 +40,8 @@ Author: Bradlee Barnes
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/CarrierCensored.deb
-Size: 2654
-MD5sum: 7ec4607781800b48342734bcd36da1e0
-SHA1: 9b3f8487f315d3b75dc1ebf3d39beb95e14c8012
-SHA256: 90c9e38017d89336192d5b4f78ee02fc075868eae727af1470ba08f4058b6676
+Size: 2656
+MD5sum: 7a51bd8432f9f6af90ae98cb3306efa5
+SHA1: 1eda25e9156e0797de23e62fad379747758ee1c4
+SHA256: d5aef3d3c8cbe80347df44bf9bbc86cb4c836679fb6ca81db253ab5421939240
 
